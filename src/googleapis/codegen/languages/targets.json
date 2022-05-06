@@ -80,6 +80,15 @@
           "path": "1.0"
         }
       }
+    },
+    "kotlin": {
+      "displayName": "Kotlin",
+      "description": "Kotlin libraries for Google APIs.",
+      "variations": {
+        "default": {
+          "path": "0.1"
+        }
+      }
     }
   }
 }
